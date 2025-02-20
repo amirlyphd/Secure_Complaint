@@ -1,5 +1,7 @@
 # Secure_Complaint
 Secure Complaint: Advanced Steganographic Techniques for Secure and Anonymous Audio-Based Complaint Submission
+![image](https://github.com/user-attachments/assets/07f400d9-882b-4dbe-bc4e-909b85376681)
+
 Overview
 Secure Complaint is an innovative framework designed to ensure secure, private, and anonymous submission of complaint records using advanced audio steganography and cryptographic techniques. The system securely embeds encrypted user details into complaint audio files, thus eliminating the need for external mapping databases and reducing the risk of data breaches. The project combines AES-CBC encryption, bit-level obfuscation (via bit reversal and flipping), audio interpolation, and least significant bit (LSB) steganography to create a robust and efficient secure complaint submission method.
 
