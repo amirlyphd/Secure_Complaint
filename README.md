@@ -15,7 +15,6 @@ Quality Evaluation: Evaluates the integrity and fidelity of the stego-audio usin
 Repository Details
 Current Version: V1
 Repository: https://github.com/amirlyphd/Secure_Complaint
-License: MIT License
 Programming Language: Python
 Key Dependencies:
 pycryptodome
